@@ -6,8 +6,6 @@ This dataset captures detailed operational and transactional data from **Blinkit
 
 The dataset is structured to support time-series analysis, inventory management assessment, discount impact evaluation, and delivery SLA (Service Level Agreement) performance measurement.
 
----
-
 
 ---
 
